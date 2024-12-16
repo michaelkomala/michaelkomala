@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Michael!
-👩🏻‍💻 Product Designer, Programmer, Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+👩🏻‍💻 Product Designer, Programmer, and Youtuber<br/>
+👩🏻‍🎓 Studied [User Experience Design](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at Western Govenor's Univeristy<br/>
+🎨 Making videos documenting my journey as I learn about tech, design, and being a dad [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
